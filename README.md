@@ -1,8 +1,6 @@
 <h1 align="center">Barhoune Hamza</h1>
 <h3 align="center">Doing my best to build good software and give back to the community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barhoune&label=Profile%20views&color=0e75b6&style=flat" alt="barhoune" /> </p>
-
 -  Looking forward to collaborate with **Freelancers and Designers**
 
 -  Ask me about **Linux and Homelabs**
