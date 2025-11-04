@@ -18,7 +18,6 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="C#" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" width="50" alt="Rust" /></a>
 </div>
 
 <h5>BACKEND :</h5>
@@ -31,7 +30,6 @@
   <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" alt="spring logo" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" width="50" alt="django logo" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="fastapi logo" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" width="50" alt="flask logo" /></a>
 </div>
 
 <h5>FRONTEND :</h5>
@@ -58,8 +56,6 @@
 <div align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" width="50" alt="aws logo" /></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.simpleicons.org/ansible/EE0000" height="50" width="50" alt="ansible logo" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" width="50" alt="terraform logo" /></a>
-  <a href="https://www.heroku.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50" width="50" alt="heroku logo" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash logo" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="50" width="50" alt="githubactions logo" /></a>
@@ -72,7 +68,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="mongodb logo" /></a>
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="mssql logo" /></a>
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" width="50" alt="sqlite logo" /></a>
-  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="50" width="50" alt="apachecassandra logo" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="50" width="50" alt="firebase logo" /></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50" width="50" alt="supabase logo" /></a>
 </div>
