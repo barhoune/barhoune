@@ -8,7 +8,7 @@
 
 <h2> Languages I used/experimented with </h2>
  
-<details>
+<details open>
   <summary><h3>Languages</h3></summary>
 <div align="left">
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" alt="PHP" /></a>
@@ -21,7 +21,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Backend</h3></summary>
 
 <div align="left">
@@ -36,7 +36,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Frontend</h3></summary>
 
 <div align="left">
@@ -50,7 +50,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Desktop</h3></summary>
 
 <div align="left">
@@ -62,7 +62,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>DevOps</h3></summary>
 
 <div align="left">
@@ -74,7 +74,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Database</h3></summary>
 
 <div align="left">
@@ -88,7 +88,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Tools</h3></summary>
 
 <div align="left">
@@ -100,7 +100,7 @@
 </div>
 </details>
 
-<details>
+<details open>
   <summary><h3>Linux Distributions</h3></summary>
 
 <div align="left">
